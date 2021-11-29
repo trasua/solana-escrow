@@ -22,3 +22,11 @@ solana-validator = "=1.8.1"
 
 [lib]
 crate-type = ["cdylib", "lib"]
+
+[[bin]]
+name = "alice"
+path = "scripts/alice.rs"
+
+[[bin]]
+name = "bob"
+path = "scripts/bob.rs"
