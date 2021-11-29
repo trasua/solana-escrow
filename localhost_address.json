@@ -1,0 +1,15 @@
+{
+    "alice": "DnNosjKFVLX7Do66Cjm4oGAUEaGhg7TTng5LuuPe2R5Z",
+    "bob": "jvVjGLDWfqXbiGLpDCQ7aG7GhnkoLkSJ1ftSGqXdqZr",
+
+    "escrow_program_id": "3xpWD3TeZxf4hmNHk18ZRRqSmUUDveTkcFSVAXfwoX5K",
+
+    "tokenX": "F1NPmmdNBiPnSYydc8NHZCq5P7howFonsbEbzx54Fbew",
+    "tokenY": "7HNCKNSsQDXP7mj1ycN8DcetUoQxu43gww73udY4EigV",
+
+    "aliceTokenX": "5i62x86pv6wnkczB1XtKtKMzW4zXzNKxSbM63tgtT83h",
+    "aliceTokenY": "4fNc4U2CVmN1ZPUhp7NFkQbxaXEH67vXSa8MAdeGQJJS",
+
+    "bobTokenX": "BAvpRJW7FVPP5Zvew8g5dnKvezveTfngw1b64DRpJswi",
+    "bobTokenY": "23HCXRCAF64YLCzbE2biYAASkwJimPJG1yV4FcPQ8FQB"
+}
